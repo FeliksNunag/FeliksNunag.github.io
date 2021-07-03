@@ -14,7 +14,8 @@
 }
 
 .me{
-    width: 200px;
+    width: 220px;
     height: 200px;
     margin: auto;
+    padding-left: 100px;
 }
