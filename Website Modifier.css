@@ -1,0 +1,20 @@
+.test{
+    font-family: Roboto;
+    border: 1px solid blue;
+}
+
+.column{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.description{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.me{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
